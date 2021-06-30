@@ -237,6 +237,6 @@ while ch != 8:
         print("\tThanks for using bank managemnt system")
         break
     else:
-        print("Invalid choice")
+        print("Invalid choice,Please check your value")
 
 
