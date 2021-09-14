@@ -1,6 +1,6 @@
 import os   # This module use for create and delete the file in location
 import pickle  # This module use for getting the user data dump to another file and again getting the same data and secure purpose
-import pathlib  #This module use for create file path
+import pathlib  #This module use for create file path and take the file path
 
 class Bank_system():
 
